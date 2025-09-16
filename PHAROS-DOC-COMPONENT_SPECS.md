@@ -62,7 +62,7 @@ This document provides a detailed specification for each currently proposed comp
 -   **Status:** `PLAN-PROP`
 -   **Type:** CLI Application
 -   **Language:** Python
--   **Description:** A tool for searching and downloading satellite imagery from Sentinel via the Copernicus Data Space Ecosystem (CDSE) OData API.
+-   **Description:** A Python-based tool for burn severity assessment using pre-fire and post-fire Sentinel-2 imagery. Calculates spectral indices (NBR, dNBR, RdNBR) and produces standardized burn severity classifications.
 
 ### SmokeDetect:
 
